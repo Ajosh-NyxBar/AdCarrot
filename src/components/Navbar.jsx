@@ -72,6 +72,7 @@ const Navbar = () => {
                         className="transition-colors duration-500 hover:text-orange-500 ">
                             {link.name}
                         </a>
+                        
                     )
                 })
             }
